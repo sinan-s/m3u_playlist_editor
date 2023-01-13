@@ -8,7 +8,11 @@ Then for example to open m3u list from an app on a smart TV, you can put the sav
 
 ## How to use ##
 paste your m3u link to Link textbox
+
 Click the load button
+
 Delete any groups that you don't wan to appear on list
+
 Click Save M3U
+
 latest.m3u file will be saved to the same directory which you ran the program.
